@@ -36,10 +36,3 @@ Quand je ne suis pas occupée à coder, vous pouvez me retrouver :
 * Créant des mods pour Les Sims 3 avec Blender et Photoshop.
 * Explorant les possibilités de la narration interactive, mêlant vidéo, design, et son.
 * Faisant de la MAO avec Maschine 2 
-
-## 📬 Restons en contact
-* 🌍 Mon portfolio : https://omowumi-olabisi.fr
-* ✉️ wumi.olabisi@gmail.com
-* 📱 06 50 06 98 09
-
-Merci d'avoir visité mon profil, et n’hésitez pas à me contacter pour en savoir plus sur mes projets ! 😊
