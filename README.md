@@ -9,12 +9,12 @@ Développeuse Web & Passionnée de WordPress
 ## Bienvenue sur mon profil GitHub ! 🚀
 Je suis développeuse web avec plus de 5 ans d’expérience ! Je suis spécialisée dans la création et la maintenance de sites internet sur mesure avec WordPress notamment. Qu’il s’agisse de concevoir un thème personnalisé, de développer un plugin ou d’optimiser un site pour le SEO, je donne toujours le meilleur de moi-même et j’aime relever les défis techniques (et les réussir) !
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wumiolabisi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Les technos que j'utilise le plus en ce moment](https://github-readme-stats.vercel.app/api/top-langs/?username=wumiolabisi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats 
 ![Wumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wumiolabisi&show_icons=true&theme=buefy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=wumiolabisi&theme=buefy&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wumiolabisi&theme=buefy&hide_border=false)-->
 
 
 
