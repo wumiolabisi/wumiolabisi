@@ -1,34 +1,45 @@
 # 👩‍💻 Omowumi OLABISI
 Développeuse Web & Passionnée de WordPress
 
-# Bienvenue sur mon profil GitHub ! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omowumi-olabisi)
+[![Website](https://img.shields.io/badge/Portfolio-en?color=#d473d4)](https://omowumi-olabisi.fr)
+
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Bienvenue sur mon profil GitHub ! 🚀
 Je suis développeuse web avec plus de 5 ans d’expérience ! Je suis spécialisée dans la création et la maintenance de sites internet sur mesure avec WordPress notamment. Qu’il s’agisse de concevoir un thème personnalisé, de développer un plugin ou d’optimiser un site pour le SEO, je donne toujours le meilleur de moi-même et j’aime relever les défis techniques (et les réussir) !
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wumiolabisi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🛠️ Ce que je fais
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Wumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wumiolabisi&show_icons=true&theme=buefy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=wumiolabisi&theme=buefy&hide_border=false)
+
+
+
+## 🛠️ Ce que je fais
 * Développement WordPress et PHP : Thèmes sur mesure, plugins, optimisation SEO et performances.
 * Projets full-stack : HTML5, CSS3/SASS, JavaScript (avec jQuery), PHP et gestion de bases de données MySQL.
 * Veille technologique : Apprentissage autodidacte de frameworks modernes comme ReactJS et NextJS.
 * Gestion de projets web : De l'idée à la livraison, toujours en mode Agile.
 
-# 🌟 Ce que j'aime dans le dev web
-J’apprécie particulièrement l’écosystème WordPress, j'aime aussi les opportunités qu’offrent des technologies émergentes pour créer des expériences utilisateur immersives. Mon parcours atypique, allant de projets personnels comme des podcasts ou des webdocumentaires, à des missions en entreprise, a renforcé mon autonomie, ma curiosité, et mon goût pour le travail bien fait.
+## 🌟 Ce que j'aime dans le dev web
+J’aime la possibilité de pouvoir créer un univers totalement interactif, d'où mon intérêt pour le front-end et la 3D. J'aspire à créer des expériences utilisateur numériques qui sont immersives et accessibles à toutes et à tous. Mon parcours atypique, allant de projets personnels comme des podcasts ou des webdocumentaires, à des missions en entreprise, a renforcé mon autonomie, ma curiosité, et mon goût pour le travail bien fait.
 
-# 💻 Mon dernier projet marquant
-## Page28 :
+## 💻 Mon dernier projet marquant
+Page28 :
 * Un catalogue cinématographique en ligne dédié à la visibilité des femmes dans le cinéma, développé en collaboration avec la réalisatrice Anne Roux.
 
-# 🎨 Et en dehors du code ?
+## 🎨 Et en dehors du code ?
 Quand je ne suis pas occupée à coder, vous pouvez me retrouver :
 * Créant des mods pour Les Sims 3 avec Blender et Photoshop.
 * Explorant les possibilités de la narration interactive, mêlant vidéo, design, et son.
 * Faisant de la MAO avec Maschine 2 
 
-# 📬 Restons en contact
-    🌍 Mon portfolio
-    ✉️ wumi.olabisi@gmail.com
-    📱 06 50 06 98 09
+## 📬 Restons en contact
+* 🌍 Mon portfolio : https://omowumi-olabisi.fr
+* ✉️ wumi.olabisi@gmail.com
+* 📱 06 50 06 98 09
 
-Merci de visiter mon profil, et n’hésitez pas à me contacter pour en savoir plus sur mes projets ! 😊
+Merci d'avoir visité mon profil, et n’hésitez pas à me contacter pour en savoir plus sur mes projets ! 😊
