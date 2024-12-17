@@ -32,7 +32,8 @@ Page28 :
 * Un catalogue cinématographique en ligne dédié à la visibilité des femmes dans le cinéma, développé en collaboration avec la réalisatrice Anne Roux.
 
 ## 🎨 Et en dehors du code ?
-Quand je ne suis pas occupée à coder, vous pouvez me retrouver :
-* Créant des mods pour Les Sims 3 avec Blender et Photoshop.
-* Explorant les possibilités de la narration interactive, mêlant vidéo, design, et son.
-* Faisant de la MAO avec Maschine 2 
+Quand je ne suis pas occupée à coder, je fais plein d'autres choses :
+* J'apprends à créer des mods pour Les Sims 3 avec Blender et Photoshop.
+* J'explore comment faire de la narration interactive, avec de la vidéo et du son.
+* Je crée de la musique avec Ableton et Maschine 2 !
+ 
