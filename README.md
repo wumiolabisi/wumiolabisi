@@ -1,6 +1,4 @@
-# 👩‍💻 Omowumi OLABISI
-Développeuse Web & Passionnée de WordPress
-
+# 👩‍💻 Wumi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omowumi-olabisi)
 [![Website](https://img.shields.io/badge/Portfolio-en?color=#d473d4)](https://omowumi-olabisi.fr)
 
